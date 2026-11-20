@@ -1,6 +1,6 @@
 # Tugas Pertemuan 6 - Operator Logika
 # Nama: sagita amalia sukma
-# NIM: 26241061
+# NIM: 26241048
 # Prodi: Pendidikan Teknologi Informasi
 
 a = int(input("Digit A: "))
